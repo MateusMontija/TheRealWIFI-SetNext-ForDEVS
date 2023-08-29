@@ -33,7 +33,7 @@ def TheRealWIFI():
 
 
     #<--UPLOAD-->#
-    uploadSpeed = MyTest.download()
+    uploadSpeed = MyTest.upload()
     #<--UPLOAD-->#
 
 
