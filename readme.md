@@ -18,3 +18,7 @@ Ficamos extremamente felizes em anunciar os principais colaboradores desse proje
 + SetNext (ForDevs)
 + MateusMontija
 + TheASK
+
+## Otimização
+O TRW está otimizado apenas para Windows, mas isso não impede o uso em outros SO,
+apenas tráz outra experiência
