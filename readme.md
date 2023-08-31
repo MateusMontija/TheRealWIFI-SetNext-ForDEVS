@@ -26,4 +26,4 @@ apenas tráz outra experiência
 ## Requisitos
 + Ter uma versão recente do python.
 + Ter instalado a biblioteca do SpeedTest (pip install speedtest-cli)
-+ 
++ Executar pelo CMD
