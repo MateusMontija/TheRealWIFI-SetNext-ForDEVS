@@ -22,3 +22,8 @@ Ficamos extremamente felizes em anunciar os principais colaboradores desse proje
 ## Otimização
 O TRW está otimizado apenas para Windows, mas isso não impede o uso em outros SO,
 apenas tráz outra experiência
+
+## Requisitos
++ Ter uma versão recente do python.
++ Ter instalado a biblioteca do SpeedTest (pip install speedtest-cli)
++ 
